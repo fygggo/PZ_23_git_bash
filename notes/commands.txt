@@ -1,0 +1,18 @@
+pwd
+ls
+cd
+cd ..
+cd ~
+mkdir
+touch
+cp
+mv
+rm
+git status
+git add
+git diff
+git diff --staged
+git log --oneline
+git commit --amend
+git reset HEAD
+git reset --hard
